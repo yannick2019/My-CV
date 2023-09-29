@@ -259,10 +259,6 @@ h2 {
         padding: 0 1.2rem;
     }
 
-    .education {
-        width: 260px;
-    }
-
     .container {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
@@ -300,10 +296,6 @@ h2 {
 
     .profile, .experience, .interest, .education, .skills, .contact {
         padding: 0 1.2rem;
-    }
-
-    .education {
-        width: 260px;
     }
 
     .container {
