@@ -271,6 +271,10 @@ h2 {
 
 @media screen and (min-width: 1025px) {
 
+    .main {
+        box-shadow: 0 0 12px #636e72;
+    }
+
     body {
         max-width: 1024px;
         margin: 4rem auto;
